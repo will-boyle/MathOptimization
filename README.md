@@ -2,7 +2,7 @@
 
 Last update: 8/9/2026.
 
-convex/nonconvex optmimziation solvers. More to come.
+convex/nonconvex solvers. More to come.
 
 By convention, all optimizations are minimization.
 
